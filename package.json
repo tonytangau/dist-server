@@ -1,0 +1,22 @@
+{
+  "name": "dist-server",
+  "version": "1.0.0",
+  "description": "A basic express server for production build app that was generated from vue-loader or create-react-app.",
+  "scripts": {
+    "default": "node server"
+  },
+  "keywords": [
+    "express",
+    "server",
+    "vue-loader",
+    "create-react-app"
+  ],
+  "author": "Tony Tang <tony.cn@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.6.2",
+    "express": "^4.15.2",
+    "helmet": "^3.4.1",
+    "morgan": "^1.8.1"
+  }
+}
